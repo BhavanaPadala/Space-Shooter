@@ -1,1 +1,3 @@
-# Space-Shooter
+## Introduction to Space Shooter Tutorial
+
+This is a tutorial from Unity Learn.In this tutorial there is a lot to learn. We will learn about c# scripts, UI, physics, quaternions, bullet spawning, enemy spawning, particle effects,post processing effects and score keeping. We use the c# scripting to control our player or space ship movement, we build a enemy script spawner to help us spawn enemy ships. Another script will govern our bullets. We use quaternions to control the rotation of our space ship around the center of our world. Particle effects for explosions and post processing effects to give us a bloom blur effect and spice up our flat shapes which unity give us.
